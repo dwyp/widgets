@@ -1,9 +1,7 @@
 package com.kata.practice;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+/**
 
-/*
 For this exercise, you are a distributor who needs to order and deliver products to a customer on a specific date.
 You use just-in-time ordering to minimize warehousing costs. It takes one day for you to provide product from your
 warehouse to your customer.
@@ -27,13 +25,17 @@ Valentine's Day. What day do I need to place my order?
 
 Today is Monday, February 1st, 2021. As a customer, I order three blue widgets, two green widgets, and one red widget
 to gift them on Valentine's Day. What day do I need to place my order?
- */
 
-@SpringBootApplication
+ **/
+
 public class PracticeApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PracticeApplication.class, args);
+        PracticeApplication practiceApplication = new PracticeApplication();
+        System.out.println(practiceApplication.getText());
     }
 
+    public String getText() {
+        return "Hello world!";
+    }
 }
