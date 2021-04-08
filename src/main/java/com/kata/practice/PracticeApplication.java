@@ -18,13 +18,13 @@ manufacturer so that you can order from them every day.
 Scenarios
 
 Today is Monday, February 3rd, 2020. As a customer, I order three blue widgets to gift them on Valentine's Day.
-What day do I need to place my order?
+What day does the distributor need to place the order?
 
 Today is Monday, February 4th, 2019. As a customer, I order three blue widgets and two green widgets to gift them on
-Valentine's Day. What day do I need to place my order?
+Valentine's Day. What day does distributor need to place the order?
 
 Today is Monday, February 1st, 2021. As a customer, I order three blue widgets, two green widgets, and one red widget
-to gift them on Valentine's Day. What day do I need to place my order?
+to gift them on Valentine's Day. What day does distributor need to place the order?
 
  **/
 
