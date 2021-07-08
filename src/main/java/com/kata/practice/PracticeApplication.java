@@ -16,14 +16,13 @@ Manufacturer C sells red widgets and delivers in five to seven business days. Yo
 manufacturer so that you can order from them every day.
 
 Scenarios
-
-Today is Monday, February 3rd, 2020. As a customer, I order three blue widgets to gift them on Valentine's Day.
+1. Today is Monday, February 3rd, 2020. As a customer, I order three blue widgets to gift them on Valentine's Day.
 What day do you as the distributor need to place the order?
 
-Today is Monday, February 4th, 2019. As a customer, I order three blue widgets and two green widgets to gift them on
+2. Today is Monday, February 4th, 2019. As a customer, I order three blue widgets and two green widgets to gift them on
 Valentine's Day. What day do you as the distributor need to place the order?
 
-Today is Monday, February 1st, 2021. As a customer, I order three blue widgets, two green widgets, and one red widget
+3. Today is Monday, February 1st, 2021. As a customer, I order three blue widgets, two green widgets, and one red widget
 to gift them on Valentine's Day. What day do you as the distributor need to place the order?
 
  **/
